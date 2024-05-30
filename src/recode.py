@@ -10,7 +10,7 @@ from io import StringIO
 
 # Define the OpenAI API key
 openai = OpenAI(
-    api_key='OGovdDUNPWZpwp2cXIO42vDUkxd7iS6O',
+    api_key='KEY_HERE',
     base_url="https://api.deepinfra.com/v1/openai",
 )
 
