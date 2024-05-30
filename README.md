@@ -2,7 +2,7 @@
 It's is a chatbot app that provides answers to user queries related to a textbook by leveraging RAG techniques.
 
 
-## PROJECT SETUP:
+### PROJECT SETUP:
 1. Activate venv: source learn-env/bin/activate
 2. Checkout the project then run command: pip3 install -r requirements.txt
 3. Run app: streamlit run src/app.py
