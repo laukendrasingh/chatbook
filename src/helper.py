@@ -67,3 +67,4 @@ def get_answer(question):
       result = chain({"question": question, "chat_history": st.session_state['chat_history']})
       add_in_memory(question, result["answer"])
     return result, cb
+
