@@ -6,6 +6,7 @@ It's is a chatbot app that provides answers to user queries related to a textboo
 1. Activate venv: source learn-env/bin/activate
 2. Checkout the project then run command: pip3 install -r requirements.txt
 3. Run app: streamlit run src/app.py
+4. Run test: pytest
 
 
 ### DOCKER BUILD:
